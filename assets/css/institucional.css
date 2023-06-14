@@ -52,4 +52,5 @@
 
 .institucional__video {
     width: 100vw;
+    max-width: 1000px;
 }
